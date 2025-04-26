@@ -19,10 +19,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2GZhVLZvbkfTwfBPZJzfGvET5BR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -191,12 +195,25 @@
       <workItem from="1667192055272" duration="5347000" />
       <workItem from="1668944034701" duration="753000" />
       <workItem from="1669190110220" duration="1846000" />
-      <workItem from="1745670097665" duration="870000" />
+      <workItem from="1745670097665" duration="1222000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Spring IOC and MyBatis design pattern projects">
+      <option name="closed" value="true" />
+      <created>1745671213799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745671213799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Spring IOC and MyBatis design pattern projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Spring IOC and MyBatis design pattern projects" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
