@@ -24,7 +24,7 @@ public class StudentBean implements FactoryBean {
     //该方法返回的是在IOC容器中getBean所匹配的类型
     @Override
     public Class<?> getObjectType() {
-        return StudentBean.class;
+        return TeacherBean.class;
     }
 
     public void study(){

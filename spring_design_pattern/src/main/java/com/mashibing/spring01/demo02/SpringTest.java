@@ -21,5 +21,8 @@ public class SpringTest {
 
         TeacherBean teacherBean = (TeacherBean) context.getBean("studentBean");
         teacherBean.teach();
+
+        // 因为StudentBean#getObjectType返回的是TeacherBean，所以这里能获取成功
+        TeacherBean teacherBeanByType = context.getBean(TeacherBean.class);
     }
 }
